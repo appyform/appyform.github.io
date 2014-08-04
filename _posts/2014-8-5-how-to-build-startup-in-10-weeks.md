@@ -1,52 +1,76 @@
 ---
 layout: post
-title: How (not) to build a tech startup in 10 weeks, by yourself
+title: How (not) to build a tech startup in 10 weeks
 ---
 
 
-Now that I have built AppyForm in about 10 weeks, I can't wait to look back and let the thoughts sink in, to recollect the events that have happened in this short time window and share, well, whatever I could, from this experience.
+Now that AppyForm has gone live, I can't wait to look back and let the thoughts sink in, to recollect what I have learnt, and how you could also build your startup in 10 weeks. Or in 5, if you could avoid the mistakes that I made. Some do it in a weekend.
 
-Before we move on, I have to confess that the title is ~~a little~~ misleading. 
+## Built a startup? Seriously
 
-Yes, I have spent about 10 weeks to develope AppyForm, and it has gone to a stage of private-beta by the end of this effort. But has a startup been ***built***? In fact, will it be ever built? I mean, done? Development completed? Probably not. Please, don't fool yourself.
+But before we move on, I want to confess that the title is <del>a little</del> misleading. 
 
-Let me share how I got to the start of a startup in 10 weeks.
+Yes, I have spent about 10 weeks to develop AppyForm, and it has gone to a stage of private-beta by the end of this effort. But has a startup been ***built***? In fact, will it ever be built? I mean, development done? Mission accomplished? No. Please, don't fool yourself.
 
-## So you want to build a startup?
+It's more like getting to the end of a beginning. How did I do that...
 
-Am I correct o assume that you are contemplating, or have contemplated in the past, the idea of building a start-up?
+## Do you want to build a startup?
 
-Stop. Stop right here and ask yourself why you want to do it, because..
+If you are contemplating, or have contemplated in the past, the idea of building a startup, stop. Stop right here and ask yourself why you want to do it, because..
 
 > ...half of the companies (startups) are silly, and you know two-thirds of them are going to go bankrupt...
 
-Who dare say that about the almighty startups of today? About Facebook, Whatsapp, and so many other wonderful things? 
+Who dares to say such things about the almighty startups? About Facebook, Whatsapp, and so many other wonderful companies that have created jobs and wonderful creations that people love?
 
 That guys's name is *[Bill Gates](http://techcrunch.com/2014/03/14/bill-gates-its-ok-if-half-of-silicon-valley-startups-are-silly/)*.
 
-Why would he say that? Probably because it's true. And I guess that means the odds of good fortune 
+Why would he say that? Probably because it's true. And it means that the odds of building a startup and making a fortune as a result of that are very much dim.
 
 
-## Schedule
+## If you believe in your startup product/service
 
 
-## In hindsight
+The schedule of my 10 weeks goes like this,
+
+- 1st week - 
+- 2nd week -
+
+## My lessons learnt
 
 ### Things that seem difficult sometimes turn out to be easy
 
-Yes.
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
 
 ### Things that seem easy could take hours, or days, or weeks
 
-### Remember why you wanted to build it
+"It will take X (amount of time)". No it won't. It will take 2X, 3X, or 10X.
+
 
 ### Analysis paralysis = Bad
 
-It will be done.
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
+(text to put in here).
 
-Yes, one way or another, your challenges 
+
+### Remember why you wanted to build it
+
+One way or another, your challenges will be overcome, the gap can be bridged.
 
 
 ## Epilogue
 
-So, that's how I built my startup in (about) 10 weeks. Perhaps this will inspire you to  that's how it shouldn't have been done. 
+So, that's something I have learnt in my startup building exercise. What do you think? Agreed? Disagreed? Inspired? Disgusted? Let me know in comments below.
+
+
