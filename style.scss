@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $avantFont;
+  font: 16px/1.6 $avantFont;
   color: $darkGray;
 }
 
@@ -225,7 +225,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $avantFont; 
-  font-size: 1.2em; //18px;
+  font-size: 1.1em; //18px;
   
   @include mobile {
     float: none;
