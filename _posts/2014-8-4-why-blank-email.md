@@ -1,10 +1,9 @@
 ---
 layout: post
-title: So, what is AppyForm? And Why?
+title: "Why do users send me blank emails?"
 ---
 
-After working on AppyForm for about 10 weeks, AppyForm is ready for action! Give it a go, get some feedback from your
-app users now! 
-
+That was the question I kept asking myself after my mobile app has gone live.
+ 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
