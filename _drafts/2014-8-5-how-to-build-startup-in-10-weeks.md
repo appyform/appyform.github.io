@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How (not) to build a tech startup in 10 weeks
+title: How to turn your idea into a startup in 10 weeks
 ---
 
 
@@ -10,7 +10,7 @@ Now that AppyForm has gone live, I can't wait to look back and let the thoughts 
 
 But before we move on, I want to confess that the title is <del>a little</del> misleading. 
 
-Yes, I have spent about 10 weeks to develop AppyForm, and it has gone to a stage of private-beta by the end of this effort. But has a startup been ***built***? In fact, will it ever be built? I mean, development done? Mission accomplished? No. Please, don't fool yourself.
+Yes, I have spent about 10 weeks to develop AppyForm, and it has gone to a stage of private-beta by the end of this effort. But has a startup been ***built***? In fact, will it ever be built? I mean, development done? Please, don't fool yourself.
 
 It's more like getting to the end of a beginning. How did I do that...
 
